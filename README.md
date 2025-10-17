@@ -62,6 +62,6 @@ Note: On some screen revisions, the V or VIN pad is not connected to anything. I
 
 # Conclusion
 
-After you have wired your display up, you can flash one of the sketches to your microcontroller using Arduino IDE. If you would like to make your own projects, you can use general_use.ino. Feel free to post the projects that you make with these usefull little displays in the discussions tab or on the subreddit r/streetlithium. If you have any questions, feel free to e-mail me at sawyermatheson037@gmail.com
+After you have wired your display up, you can flash one of the sketches to your microcontroller using Arduino IDE. If you would like to make your own projects, you can use general_use.ino. Feel free to post the projects that you make with these usefull little displays in the discussions tab or on the subreddit r/streetlithium. If you have any questions, feel free to e-mail me at sawyermatheson037@gmail.com or PM u/Progressbar95 on Reddit.
 
 WARNING: If you are allergic to AI generated code, please do not download anything from this repo. The code was written mostly using ChatGPT.
