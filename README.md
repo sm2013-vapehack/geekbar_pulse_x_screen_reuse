@@ -10,7 +10,7 @@ For instructions on disassembling the GeekBar Pulse X disposable vape, I like th
 
 Make sure to follow the instructions carefully, as there are lots of little things you could break inside the vape if you're not paying attention. 
 
-# Screen conpatibility:
+# Screen compatibility:
 Tempsense.ino only works with regular GeekBar Pulse X's, not any special editions like Pulse X edition or Pulse X Jam; you will have to change the mappings for it to work.
 General_use.ino is compatible with all GeekBar Pulse X devices, and other vapes that use the same kind of display, like the Viho TRX 50K (not tested), with the exclusion of the "num", "digit", and "digits' serial commands, and the "displayDigit()", "displayDigits()", and "displayNumber()" functions. You will have to change the mappings for those to work.
 
