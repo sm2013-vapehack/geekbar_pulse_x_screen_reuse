@@ -2,7 +2,7 @@
 
 ![PXL_20251016_232409591](https://github.com/user-attachments/assets/f5fbc51c-dfc7-4388-912e-b49b4bb5c5c0)
 
-This repo aims to divert old GeekBar Pulse X and other disposable vapes from the landfill by reusing the SPI LED displays from the devices. There are 2 *.ino files available: the general testing/display mapping script (general_use.ino), and a demo temperature sensor script (tempsense.ino) for use with an AGT20 or AGT10 sensor. The scripts were tested on an Arduino UNO, but they probably work on most other microcontrollers.
+This repo aims to divert old GeekBar Pulse X and other disposable vapes from the landfill by reusing the SPI LED displays from the devices. There are 3 *.ino files available: general_use.ino (the general testing/display mapping script), CompleteDisplayMap.ino, which is the same as general_use.ino but with more features (thanks, masterPlusTer), and tempsense.ino (a demo temperature sensor script for use with an AGT20 or AGT10 sensor.) The scripts were tested on an Arduino UNO, but they probably work on most other microcontrollers.
 
 # IMPORTANT - READ BEFORE YOU TAKE THE VAPE APART!
 
